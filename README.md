@@ -1,6 +1,6 @@
 # Python 3 Imports for 6 Year Olds
 
-Learn once and for all how to use relative and absolute imports in Python 3!
+Learn once and for all how to use relative and absolute imports in Python 3
 
 ## Quick Notes
 - When a file is run directly, it is denoted as the `__main__` file.
